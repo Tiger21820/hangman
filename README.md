@@ -9,7 +9,7 @@
 [![Build Status](https://github.com/Mike-on-Tour/hangman/workflows/Tests/badge.svg)](https://github.com/Mike-on-Tour/hangman/actions)
 
 ## Install
-g
+
 1. Download the latest release.
 2. Unzip the downloaded file.
 3. Copy the unzipped folder to `/ext/` (if done correctly, you'll have the main extension class at `(your forum root)/ext/mot/hangman/composer.json`).
