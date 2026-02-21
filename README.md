@@ -7,7 +7,7 @@
 ![PHP >= 8.0.30, < 8.5.0@dev](https://img.shields.io/badge/PHP->=8.0.30,%20<8.5.0@dev-blueviolet)
 
 [![Build Status](https://github.com/Mike-on-Tour/hangman/workflows/Tests/badge.svg)](https://github.com/Mike-on-Tour/hangman/actions)
-
+y
 ## Install
 
 1. Download the latest release.
