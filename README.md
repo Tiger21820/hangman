@@ -1,4 +1,4 @@
-# phpBB Hangman Game Extension
+# phpBgjhB Hangman Game Extension
 
 ![Version: 0.13.1](https://img.shields.io/badge/Version-0.13.1-green)  
   
